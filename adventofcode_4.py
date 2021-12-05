@@ -72,7 +72,6 @@ for row in winningTable:
                 sumNotDrawnNumbers += int(key)
                 
 print(sumNotDrawnNumbers, lastDrawnNumber, sumNotDrawnNumbers*int(lastDrawnNumber))
-# 54275
 
 """
 part 2
@@ -126,4 +125,3 @@ for row in loosingTable:
                 sumNotDrawnNumbers += int(key)
 
 print(sumNotDrawnNumbers, lastDrawnNumber, sumNotDrawnNumbers*int(lastDrawnNumber))
-#13158
